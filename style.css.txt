@@ -2,7 +2,7 @@
 body {
   margin: 0;
   overflow: hidden;
-  font-family: "Segoe UI", sans-serif;
+  font-family: "Coolvetica", sans-serif;
 }
 
 .container {
